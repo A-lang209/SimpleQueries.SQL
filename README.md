@@ -1,1 +1,2 @@
 # SimpleQueries.SQL
+#PostgreSQL
